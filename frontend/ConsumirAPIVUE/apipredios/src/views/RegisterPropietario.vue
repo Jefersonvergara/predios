@@ -39,7 +39,7 @@ export default {
     return {
       name: "",
     
-      url: "http://127.0.0.1:8100/",
+      url: "https://prediosbackend.herokuapp.com/",
     };
   },
   methods: {

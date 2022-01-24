@@ -45,7 +45,7 @@ data: function(){
       password: "",
       error: "",
       error_msg: "",
-      url: "http://127.0.0.1:8100/",
+      url: "https://prediosbackend.herokuapp.com/",
       
     }
   },
