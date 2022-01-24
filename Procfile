@@ -1,1 +1,1 @@
-web: gunicorn banco_usuario.wsgi --log-file -
+web: gunicorn predios.wsgi --log-file -
